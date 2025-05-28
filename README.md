@@ -1,6 +1,6 @@
 # 🖥️ To-do Front-end
 
-Interface web para o gerenciamento de tarefas, conectada à [To-do API]([https://github.com/Matheus-Figueiredo-Dev/Todo-api]). Esta aplicação consome os dados da API para listar, criar, editar e remover tarefas. O front-end não foi desenvolvido por mim originalmente, mas realizei modificações para integrá-lo com a minha API em Node.js + TypeScript.
+Interface web para o gerenciamento de tarefas, conectada à https://github.com/Matheus-Figueiredo-Dev/Todo-api. Esta aplicação consome os dados da API para listar, criar, editar e remover tarefas. O front-end não foi desenvolvido por mim originalmente, mas realizei modificações para integrá-lo com a minha API em Node.js + TypeScript.
 
 ---
 

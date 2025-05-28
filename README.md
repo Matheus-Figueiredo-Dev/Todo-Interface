@@ -1,6 +1,6 @@
 # 🖥️ To-do Front-end
 
-Interface web para o gerenciamento de tarefas, conectada à [To-do API]([https://github.com/Matheus-Figueiredo-Dev/Todo-Api]). Esta aplicação consome os dados da API para listar, criar, editar e remover tarefas. O front-end não foi desenvolvido por mim originalmente, mas realizei modificações para integrá-lo com a minha API em Node.js + TypeScript.
+Interface web para o gerenciamento de tarefas, conectada à [To-do API]([https://github.com/Matheus-Figueiredo-Dev/Todo-api]). Esta aplicação consome os dados da API para listar, criar, editar e remover tarefas. O front-end não foi desenvolvido por mim originalmente, mas realizei modificações para integrá-lo com a minha API em Node.js + TypeScript.
 
 ---
 
@@ -37,6 +37,7 @@ git clone https://github.com/Matheus-Figueiredo-Dev/Todo-Interface
 
 2. Instale as dependências
 npm install
+
 3. Configure a URL da API
 Edite o arquivo onde a URL base da API está definida (http://localhost:5173/) e aponte para o back-end:
 
